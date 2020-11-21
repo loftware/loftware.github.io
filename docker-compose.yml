@@ -1,0 +1,12 @@
+version: '2'
+services:
+  jekyll:
+    environment:
+      - JEKYLL_ENV=docker
+      - PAGES_REPO_NWO=loftware/loftware.github.io
+    command: jekyll serve --force_polling --watch --config  _config.yml,_config.docker.yml
+    image: jekyll/jekyll:pages
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
