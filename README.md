@@ -1,6 +1,6 @@
 # The Loft — Website
 
-Welcome to the source code of The Loft's [website](http://loftware.org)
+Welcome to the source code of The Loft's [website](https://loftware.org)
 
 ## Infrastructure
 
