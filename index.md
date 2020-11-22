@@ -1,6 +1,6 @@
 ---
 ---
-# Welcome!
+# Welcome
 
 [The Loft](https://loftware.org) is a collection of open source, peer-reviewed
 [Swift](https://swift.org) packages.
