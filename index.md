@@ -31,10 +31,10 @@ Community is crucial to this effort.  A healthy library ecosystem has a degree
 of consistency that can only be achieved if developers communicate about and
 record design principles, rationales, and best practices.  The peer review
 process is essential to ensuring the quality and relevance of new
-packages. Finally, the best libraries are not simply invented, but *discovered*
-and *evolved over time* based on interaction with users.  Therefore, The Loft is
-as much a community of users and developers, and a repository of their shared
-knowledge, as it is source code.
+packages. The best libraries are not simply invented, but *discovered*
+and *evolved over time* based on interaction with users, so The Loft is
+as much a community of users and developers—and a repository of their shared
+knowledge—as it is source code.
 
 ## Peer Review
 
@@ -62,8 +62,7 @@ having accounted for the common features of a broad range of use-cases.
 A policy that promises never to break existing code would cause many APIs to
 crystallize too soon.  Therefore,
 
-- There is no Loft policy mandating ABI stability.
-- There is no Loft policy mandating API stability.
+- There is no Loft policy mandating ABI *or* API stability.
 - A high degree of API stability with only conscientious exceptions is strongly
   encouraged.
 - Any package maintainer is free to promise full API, or even ABI, stability to
