@@ -18,7 +18,7 @@
 ## Philosophy
 
 Access to high-quality software libraries is game-changing for software
-development. Libraries allow programmers to
+development, allowing programmers to
 - stop solving problems that may have been solved by others
 - focus on their own areas of domain expertise 
 - move faster, without breaking things
