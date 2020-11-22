@@ -4,3 +4,4 @@ remote_theme: pages-themes/minimal
 theme_name: jekyll-theme-minimal
 title: The Loft
 description: Swift package development, open source and peer reviewed!
+logo: assets/image/logo.png
