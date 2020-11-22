@@ -13,7 +13,7 @@
   [source](https://github.com/loftware/loftware.github.io) for this site.
 - [Incubation area](http://github.com/loft-nest) for unreviewed packages. A
   package idea that has been successfully pitched can be developed here.
-- [Discord server](https://discord.gg/2AkrfW) 
+- [Discord server](https://discord.gg/MECQjCbRrE) 
 
 ## Philosophy
 
