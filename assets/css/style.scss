@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme_name }}";
+
+ul.navigation {
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+
+.navigation ul {
+    list-style-type: none;
+    padding-inline-start: 20px;
+}
