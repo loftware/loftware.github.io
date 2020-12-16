@@ -100,4 +100,4 @@ open-source organization's viability.
 
 ## License
 
-Like Swift itself, all Loft Libraries are Apache 2.0 licensed.
+All Loft Libraries are Apache 2.0 licensed.
